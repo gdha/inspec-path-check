@@ -1,2 +1,3 @@
-# inspec-path-check
-InSpec PATH check profile (used for InSpec workshop at Config Management Camp 2019)
+# PATH Check InSpec Profile
+
+This example shows the implementation of an InSpec profile to verify the PATH variable.
